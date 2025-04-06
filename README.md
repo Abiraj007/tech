@@ -5,7 +5,7 @@ Short description – what does it do?
 
 Key features – e.g., online ordering, search menu, admin panel, etc.
 
-Tech stack – e.g., HTML, CSS, JavaScript, React, Node.js, etc.
+Tech stack – e.g., HTML, CSS, JavaScript etc.
 
 How to run it locally – any setup steps?
 
